@@ -1,0 +1,50 @@
+.branco{
+color: #FFFFFF !important;
+font-weight: bold !important;
+font-size: 1.5ch !important;
+}
+
+.brancoTitulo{
+color: #FFFFFF !important;
+font-weight: bold !important;
+font-size: 1.2em !important;
+
+}
+
+.fundoAzul{
+	background-color: #021554;
+
+}
+
+.centralizaTexto{
+	text-align: center;
+}
+
+footer{
+	position: fixed;
+	width: 100%
+
+}
+
+/*fazer um media*/
+
+.noMeioConteudo{
+	margin:7% auto;
+}
+
+
+.copyr{
+	color:lightgrey;
+}
+.btnlogar{
+color: #FFFFFF !important;
+font-weight: bold !important;
+font-size: 1.5ch !important;
+}
+
+.btnlogar:active{
+color: black !important;
+font-weight: bold !important;
+font-size: 1.5ch !important;
+}
+
